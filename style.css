@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;  
+}
